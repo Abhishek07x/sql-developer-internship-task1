@@ -1,0 +1,15 @@
+sql-developer-internship-task1/
+├── README.md                    # Main documentation (already created by GitHub)
+├── database/
+│   ├── ecommerce_schema.sql     # Complete database schema
+│   └── sample_queries.sql       # Sample queries for testing
+├── documentation/
+│   ├── ER_Diagram_Description.md  # ER diagram detailed description
+│   ├── Database_Setup_Guide.md    # Installation and setup instructions
+│   └── Interview_Questions_Answers.md  # Answers to interview questions
+├── screenshots/
+│   ├── mysql_workbench_schema.png     # Screenshot of schema in MySQL Workbench
+│   ├── sample_data_output.png         # Screenshot of sample queries output
+│   └── er_diagram.png                 # ER diagram image (if created)
+└── assets/
+    └── database_design_notes.txt      # Any additional notes or thoughts
